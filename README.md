@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**masinejati/masinejati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Masi Nejati Moharrami 👋
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Bachelor of Computer Engineering | Computer Vision & Medical AI & Machine Learning & Deep Learning & Natural Language Processing
+
+I am a Bachelor of Computer Engineering focused on developing intelligent systems, with a particular emphasis on **Computer Vision, Medical AI, Machine Learning, Deep Learning, and Natural Language Processing**.
+
+My academic and technical work includes **computer vision applications, object detection, image processing, signal processing, conversational systems, and research-oriented machine learning** projects.
+
+## 🔬 Research Interests
+
+- Computer Vision
+- Medical AI & Biomedical Data Analysis
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Multimodal Learning
+- Autonomous Robotics 
+
+## 🧠 Selected Projects
+
+### 🚗 Vehicle Detection using YOLOv4
+Video-based object detection using YOLOv4 and OpenCV DNN with confidence filtering, Non-Maximum Suppression, and CUDA-based inference.
+
+### 🤖 Rule-Based Conversational Chatbot
+A lightweight Python conversational system using tokenization, keyword matching, response scoring, required-word validation, and fallback handling.
+
+### 🧍 Human Pose Estimation
+Computer vision project focused on human pose analysis and visualization.
+
+## 🛠 Technical Skills
+
+**Programming:** Python, C/C++, MATLAB, SQL  
+**Machine Learning:** PyTorch, TensorFlow, Scikit-learn  
+**Computer Vision:** OpenCV, YOLO  
+**Data Analysis:** NumPy, Pandas, Matplotlib  
+**Tools:** Git, Linux  
+**Web:** React.js, JavaScript, HTML/CSS, UI/UX Design  
+**Others:** Logo Design, Scratch  
+
+## 📚 Research
+
+Currently working on research projects involving machine learning, computer vision, and biomedical data analysis.
+
+## 📫 Connect with Me
+
+- LinkedIn: [Masi Nejati Moharrami](https://www.linkedin.com/in/masi-nejati-moharrami)
+- GitHub: [Masi Nejati Moharrami](https://github.com/masinejati)
+- Email: [masinejatim@gmail.com](masinejatim@gmail.com)
